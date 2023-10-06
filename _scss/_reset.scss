@@ -47,6 +47,17 @@ table {
 	margin: 25px 0;
 	border-spacing: 0;
 }
+thead tr {
+    text-align: left;
+}
+
+th,td {
+    padding: 12px 15px;
+}
+
+tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
 
 
 // Apply a natural box layout model to all elements
