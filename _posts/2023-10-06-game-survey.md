@@ -5,8 +5,6 @@ author: 이영민
 tags: article, survey, homework
 ---
 
-# 2018년 이후 게임 조사
-
 >  요약 : 최근 Elden Ring, Baldur’s Gate 3, Cyberpunk 2077: Phantom Liberty와 같은 AAA급 게임들과 다양한 인디 게임들이 출시되었다. 게임 출시에 따른 인기를 Metacritic과 디지털 패키지 게임 유통 플랫폼인 Steam 에서의 통계를 활용해 비교해 보았다.
 
 
